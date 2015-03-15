@@ -15,7 +15,7 @@
 # 
 CC = g++
 #
-CFLAGS = -g -O2 -Wfatal-errors -Wshadow -Wall -I/usr/local/include 
+CFLAGS = -g -O2 -Wfatal-errors -Wshadow -Wall -I/usr/local/include -fPIC
 
 # useful flags:
 #   -std=c++11
